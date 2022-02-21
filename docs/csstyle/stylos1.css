@@ -1,0 +1,88 @@
+/* ESTILOS ESPECIFICOS 1ERA PARTE */
+/* Texto animado de presentación en pagina principal */
+.typed
+  {
+    justify-content: center;
+    width: auto;
+    margin-top: 5%;
+    position: absolute;
+    margin-top:-2%;
+  }
+  /* Ubicaciòn imagen de proyectos */
+  .img_proyect
+  {
+    width: 30%;
+    height: 200px;
+    margin-left: 5%;
+    margin-top: 10%;
+    position: absolute;
+}
+/* Ubicaciòn texto de proyectos */
+.texto_proyecto
+  {
+    margin-left:10%;
+    font-weight: bolder;
+  }
+  /* Tamaño de imagen de cada proyecto */
+.sizeImgProyect
+  {
+    background-color: transparent;
+    width: 120px;
+    height:120px;
+  }
+  /* Ubicaciòn texto de Imagen/Icon de programador */
+.programador
+  {
+    height: 200px;
+    margin-top:50px;
+    margin-left: 10%;
+  }
+  /* Ubicaciòn Icono de Mouse en Click */
+.cli
+  {
+    margin-left:75%;
+    margin-top: -7%;
+  }
+  /* Ubicaciòn texto de informaciòn general en tecnologias */
+.text-tecno
+  { 
+    margin-bottom:5%;
+  }
+  /* Ubicaciòn de imagenes sobre cada tecnologia */
+.ima_tecno
+  {
+    width: 70px;
+    height: 60px;
+    /* border-radius: 50px; */
+    display:inline-flex;
+    align-content: center;
+    cursor: pointer;
+  }
+/* Contenedor de texto descriptivo sobre las tecnologias */
+.tGrande
+  {
+    width: 85%;
+    align-items: center;
+    margin-top: -20%;
+    
+  }
+  /* Ubicaciòn texto descriptivo tecnologias */
+.texto_hover
+  {
+    margin-left: -5%;
+    margin-top:-5%;
+    position: absolute;
+    align-items: center;
+    text-decoration: line-through;
+    width: 90%;
+    border: 1px solid;
+    border-style: dashed;
+    text-align: center;
+  }
+  .content1
+  {
+    display:table;
+    margin-bottom:60px;
+    width:900px;
+  }
+  
